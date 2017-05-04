@@ -20,9 +20,10 @@ which takes advantages of speech recognitions to create personalised content
 for the student.
 
 ### FEEDBACK FOR MY PROJECT
-More than feedback, I received good questions such as the applications and the
-market that can be interested in my ROCY. From this, I learnt that it is very
-important to find the correct audience to peach your project.
+I received good questions regarding possible scenceraios of applications of the robot.
+One of the jugdes pointed that it would be good to know the market (e.g. Elderly Care Homes)
+that can be potential buyers of the ROCY's project. If one want to raise interest,
+I learnt that it is very important to find the correct audience to peach your project.
 
 ### RECOMMENDATIONS
 Generally speaking I believe that it was a well organised event.
