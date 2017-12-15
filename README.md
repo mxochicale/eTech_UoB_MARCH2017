@@ -24,9 +24,12 @@ Examples of emerging technologies include: drones, cybersecurity, 3D printing,
 virtual reality, augmented reality, robot,  blockchain, gesture controlled technologies, 
 mobile applications and any other emerging technology of your choice.
 
+Learn more at: [eTech Website](https://intranet.birmingham.ac.uk/it/innovation/ETECH/eTech2017.aspx)
 
-Learn more at:
+# [Competition on 2017](https://github.com/mxochicale/etech_uob/tree/master/2017)
 
-https://intranet.birmingham.ac.uk/it/innovation/ETECH/eTech2017.aspx
+
+# [Competition on 2018](https://github.com/mxochicale/etech_uob/tree/master/2018)
+
 
 
